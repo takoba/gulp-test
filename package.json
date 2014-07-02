@@ -9,6 +9,7 @@
   "author": "takoba",
   "license": "MIT",
   "devDependencies": {
+    "coffee-script": "^1.7.1",
     "gulp": "^3.8.5",
     "gulp-util": "^2.2.19"
   }
